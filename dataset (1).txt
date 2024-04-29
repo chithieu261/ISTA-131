@@ -1,0 +1,4 @@
+For the data set, I choose the " Monthly unemployment rate of women in the United State from January 2022 to January 2024." (https://www.statista.com/statistics/193298/unadjusted-unemployment-rate-of-women-in-the-us/)
+Reasons:
+I minor in Economic so I want to learn about the macro-economic as well and the
+unemployment rate is a part of it. Moreover, this dataset allows for a comprehensive analysis of women's workforce participation, providing insights into potential disparities and areas for improvement. Monitoring this data over time can contribute to informed policymaking, social awareness, and initiatives aimed at fostering gender equality in the labor market. It's a valuable resource for understanding and addressing challenges in women's employment. Finally, it is vry up to date data since it started 2 years ago
